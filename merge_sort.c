@@ -1,5 +1,5 @@
 #include<stdio.h>
-void print_array(int *A,int size){
+  void print_array(int *A,int size){
 	for(int i=0;i<size;i++){
 		printf("%d ",A[i]);
 	}
